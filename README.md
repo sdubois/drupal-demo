@@ -19,4 +19,3 @@ To get started with this application, fork it, then [launch a new instance](http
 ## Resources
 - [Support](https://www.amezmo.com/support)
 - [Twitter](https://twitter.com/amezmo)
-
